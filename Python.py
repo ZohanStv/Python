@@ -13,3 +13,5 @@ random = np.random.randint(10, size=1)
 print(f'El número aleatorio es {random}')
 
 print(f'El número aleatorio al cuadrado es {random**2}')
+
+print(f'El número aleatorio al cubo es {random**3}')
